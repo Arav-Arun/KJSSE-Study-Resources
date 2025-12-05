@@ -1,4 +1,5 @@
 # 📚 KJSCE Complete Study Material (SVU-2025 syllabus)
+![KJSCE Logo](./Basket Courses/banner.jpeg)
 - This repo contains my notes,slides and experiment files compiled from multiple sources.
 - All FY Sem 1 notes (2025 syllabus) are fully uploaded! I’ll keep updating this repo with more subjects, new semesters, and additional resources over time.
 
