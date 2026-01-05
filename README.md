@@ -1,4 +1,4 @@
-'## 📚 KJSCE Complete Study Material (SVU-2025 syllabus)
+## 📚 KJSCE Complete Study Material (SVU-2025 syllabus)
 
 ![KJSCE Logo](./Basket%20Courses/banner.jpeg)
 
